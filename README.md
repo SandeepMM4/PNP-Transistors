@@ -1,3 +1,6 @@
 # PNP-Transistors
 # Sandeep Raj Tamuli: 193110035 : IIT Bombay
-Analysis of the Diffusion of Charge Carriers (Holes) in the Base of a PNP Transistor
+Study and analyses the governing equation involved and discretized it for solving PDE. Obtained graphical analysis of
+numerical solution of concentration and effect of dt with corresponding changing value of dx and compared with
+analytical results implemented in MATLAB.
+
